@@ -23,7 +23,7 @@ function Chapter({
         >
           -
         </Button>
-        <Text fontSize="20px" ml="10px">
+        <Text fontSize="20px" ml="10px" whiteSpace="nowrap">
           {order}
         </Text>
         <Input
